@@ -1,0 +1,36 @@
+/* add home page styles here */
+ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:  space-between;
+}
+
+.book {
+    border: dotted 1px black;
+    width: 150px;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
+
+p {
+    margin: 3px;
+}
+
+.price {
+    text-align: right;
+    padding: 5px;
+}
+
+.title {
+
+}
+
+.cover {
+
+}
+
+.author {
+    
+}
